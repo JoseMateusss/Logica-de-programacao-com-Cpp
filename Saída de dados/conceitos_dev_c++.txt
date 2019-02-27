@@ -1,0 +1,11 @@
+Variáveis: É um local reservado na memória utilizado no armazenamento tempórario no instante em que a aplicação está sendo executada.
+
+Tipos primitivos:
+- Lógico (bool) -> Utilizado para armazenar dados lógicos, ou seja, verdadeiro ou falso (0 ou 1);
+- caractere (char) -> Armazena letras;
+- Inteiro (int) -> É capaz de armazenar números positivos e negativos (não suporta números com vírgula);
+- Ponto flutuante (float) -> É capaz de armazenar números com casas décimais (até 06 casas décimais). 
+- Ponto flutuante (double) -> Tem a mesma função que o FLOAT, mas é capaz de armazenar números de até 15 casas décimais; 
+- sem valor (void) -> É usado quando uma variável é nula.
+
+
