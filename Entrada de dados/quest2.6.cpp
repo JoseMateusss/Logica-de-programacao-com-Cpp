@@ -22,129 +22,129 @@ int	main ()
 	cin >> l2;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l3;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l4;
 	system("cls");
 	
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l5;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l6;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l7;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l8;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l9;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l10;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l11;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l12;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l13;
 	system("cls");
 	
-	cout << "Digite a 5º letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l14;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l15;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l16;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l17;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l18;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l19;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l20;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l21;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l22;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l23;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l24;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l25;
 	system("cls");
 	
-	cout << "Digite uma letra do alfabeto"; 
+	cout << "Digite uma letra do alfabeto:"; 
 	cin >> l26;
 	system("cls");
 	
 	cout << "As letras digitadas foram:"<<endl;
-	cout << l1<<endl;
-	cout << l2<<endl;
-	cout << l3<<endl;
-	cout << l4<<endl;
-	cout << l5<<endl;
-	cout << l6<<endl;
-	cout << l7<<endl;
-	cout << l8<<endl;
-	cout << l9<<endl;
-	cout << l10<<endl;
-	cout << l11<<endl;
-	cout << l12<<endl;
-	cout << l13<<endl;
-	cout << l14<<endl;
-	cout << l15<<endl;
-	cout << l16<<endl;
-	cout << l17<<endl;
-	cout << l18<<endl;
-	cout << l19<<endl;
-	cout << l20<<endl;
-	cout << l21<<endl;
-	cout << l22<<endl;
-	cout << l23<<endl;
-	cout << l24<<endl;
-	cout << l25<<endl;
+	cout << l1<<", ";
+	cout << l2<<", ";
+	cout << l3<<", ";
+	cout << l4<<", ";
+	cout << l5<<", ";
+	cout << l6<<", ";
+	cout << l7<<", ";
+	cout << l8<<", ";
+	cout << l9<<", ";
+	cout << l10<<", ";
+	cout << l11<<", ";
+	cout << l12<<", ";
+	cout << l13<<", ";
+	cout << l14<<", ";
+	cout << l15<<", ";
+	cout << l16<<", ";
+	cout << l17<<", ";
+	cout << l18<<", ";
+	cout << l19<<", ";
+	cout << l20<<", ";
+	cout << l21<<", ";
+	cout << l22<<", ";
+	cout << l23<<", ";
+	cout << l24<<", ";
+	cout << l25<<", ";
 	cout << l26<<endl;
 	
 	
