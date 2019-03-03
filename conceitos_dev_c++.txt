@@ -7,5 +7,18 @@ Tipos primitivos:
 - Ponto flutuante (float) -> É capaz de armazenar números com casas décimais (até 06 casas décimais). 
 - Ponto flutuante (double) -> Tem a mesma função que o FLOAT, mas é capaz de armazenar números de até 15 casas décimais; 
 - sem valor (void) -> É usado quando uma variável é nula.
+ 
+Operadores Aritiméticos:
+Tipo	                         Operador	     Sintaxe
+Adição	                            +	               a + b
+Subtração	                    -	               a - b
+Multiplicação	                    *	               a * b
+Divisão	                            /	               a / b
+Módulo(resto)	                    %	               5 % 2 (resulta 1)
+Atribuição por adição	            +=	               a += b é o mesmo que (a= a+b)
+Atribuição por subtração	    -=	               a -= b é o mesmo que (a= a-b)
+Atribuição por multiplicação	    *=	               a *= b é o mesmo que (a= a*b)
+Atribuição por divisão	            /=	               a /= b é o mesmo que (a= a/b)
+Atribuição por módulo	            %=	               a%=b é o mesmo que (a= a%b)
 
 
