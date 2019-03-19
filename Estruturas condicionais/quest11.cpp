@@ -12,23 +12,23 @@ using namespace std;
 int main (){
 	
 	
-	char letra[100],A[100],B[1],C[1]; 
-	A = " a ";
+	char letra; 
+
 
 	cout << "Digite uma letra:" <<endl; 
 	cin >> letra;
 	
 	system("cls");
-	
-	if (letra == A){
+
+	if (letra == 'a' or letra == 'A' ){
 		cout << "A letra eh uma vogal "<<endl;
-	}else if (letra == "e"){
+	}else if (letra == 'e'or letra == 'E' ){
 		cout << "A letra eh uma vogal "<<endl;
-	}else if (letra == "i"){
+	}else if (letra == 'i' or letra == 'I' ){
 		cout << "A letra eh uma vogal "<<endl;
-	}else if (letra == "o"){
+	}else if (letra == 'o' or letra == 'O' ){
 		cout << "A letra eh uma vogal "<<endl;
-	}else if (letra == "u"){
+	}else if (letra == 'u' or letra == 'U' ){
 		cout << "A letra eh uma vogal "<<endl;
 	}else{
 		cout << "A letra eh uma consoante"<<endl;
