@@ -24,12 +24,21 @@ int main (){
 	
 	system("cls");
 	
-	delta =  (pow(b,2)) - (4 * a * c);
+	delta =  pow(b,2) - 4 * a * c;
 	
-	x1 = (-b + )
+	if (delta < 0){
+		cout << "A equação não tem raízes"<<endl;
+	}else{
+		x1 = -b + (sqrt(delta)) / 2 * a;
+		x2 = -b - (sqrt(delta)) / 2 * a;
+		
+		cout << "Valor de x': "<<x1<<endl;
+		cout << "Valor de x'': "<<x2<<endl;
+	}
 	
-	cout << delta<<endl;
-
+	
+	
+	
 
 	
 	
