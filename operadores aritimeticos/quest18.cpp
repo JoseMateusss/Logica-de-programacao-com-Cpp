@@ -12,7 +12,7 @@ int main (){
 	cout << "Digite sua altura:";
 	cin >> altura;
 	
-	peso = ((62.1 *altura)  44.7);
+	peso = ((62.1 *altura) - 44.7);
 	system("cls");
 	cout << "Seu peso ideal e: " <<peso<<endl;
 	system("pause");
